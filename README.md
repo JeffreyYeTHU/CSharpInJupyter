@@ -1,4 +1,4 @@
-# C# Tutorial In Jupyter Notebooks
+# C# Tutorial With Jupyter Notebooks
 
 Theses notebooks are for beginners.
 
